@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksales=self.webpackChunksales||[]).push([[894],{3894:(t,n,e)=>{function u(t){return function(n){var e=n.dispatch,u=n.getState;return function(n){return function(r){return"function"==typeof r?r(e,u,t):n(r)}}}}e.r(n),e.d(n,{default:()=>s});var r=u();r.withExtraArgument=u;const s=r}}]);
